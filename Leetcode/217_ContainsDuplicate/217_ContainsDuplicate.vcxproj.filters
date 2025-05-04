@@ -18,5 +18,13 @@
     <ClCompile Include="217_ContainsDuplicate.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="ContainsDuplicate.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ContainsDuplicate.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
