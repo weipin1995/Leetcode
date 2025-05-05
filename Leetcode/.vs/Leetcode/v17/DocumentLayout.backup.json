@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "D:\\Leetcode\\Leetcode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5E7E178-8ABC-43AC-A876-814B17E7324F}|217_ContainsDuplicate\\217_ContainsDuplicate.vcxproj|D:\\Leetcode\\Leetcode\\217_ContainsDuplicate\\217_ContainsDuplicate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F5E7E178-8ABC-43AC-A876-814B17E7324F}|217_ContainsDuplicate\\217_ContainsDuplicate.vcxproj|solutionrelative:217_ContainsDuplicate\\217_ContainsDuplicate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6DFE8B3A-7BFB-4B75-A0A2-1B954B2A5843}|242_ValidAnagram\\242_ValidAnagram.vcxproj|D:\\Leetcode\\Leetcode\\242_ValidAnagram\\242_ValidAnagram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DFE8B3A-7BFB-4B75-A0A2-1B954B2A5843}|242_ValidAnagram\\242_ValidAnagram.vcxproj|solutionrelative:242_ValidAnagram\\242_ValidAnagram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E7E178-8ABC-43AC-A876-814B17E7324F}|217_ContainsDuplicate\\217_ContainsDuplicate.vcxproj|D:\\Leetcode\\Leetcode\\217_ContainsDuplicate\\ContainsDuplicate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F5E7E178-8ABC-43AC-A876-814B17E7324F}|217_ContainsDuplicate\\217_ContainsDuplicate.vcxproj|solutionrelative:217_ContainsDuplicate\\ContainsDuplicate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6DFE8B3A-7BFB-4B75-A0A2-1B954B2A5843}|242_ValidAnagram\\242_ValidAnagram.vcxproj|D:\\Leetcode\\Leetcode\\242_ValidAnagram\\ValidAnagram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DFE8B3A-7BFB-4B75-A0A2-1B954B2A5843}|242_ValidAnagram\\242_ValidAnagram.vcxproj|solutionrelative:242_ValidAnagram\\ValidAnagram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5B1A0C-56F4-4D3B-BD29-A653D74CA59E}|1_TwoSum\\1_TwoSum.vcxproj|D:\\Leetcode\\Leetcode\\1_TwoSum\\TwoSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C5B1A0C-56F4-4D3B-BD29-A653D74CA59E}|1_TwoSum\\1_TwoSum.vcxproj|solutionrelative:1_TwoSum\\TwoSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E7E178-8ABC-43AC-A876-814B17E7324F}|217_ContainsDuplicate\\217_ContainsDuplicate.vcxproj|D:\\Leetcode\\Leetcode\\217_ContainsDuplicate\\ContainsDuplicate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F5E7E178-8ABC-43AC-A876-814B17E7324F}|217_ContainsDuplicate\\217_ContainsDuplicate.vcxproj|solutionrelative:217_ContainsDuplicate\\ContainsDuplicate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5B1A0C-56F4-4D3B-BD29-A653D74CA59E}|1_TwoSum\\1_TwoSum.vcxproj|D:\\Leetcode\\Leetcode\\1_TwoSum\\TwoSum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C5B1A0C-56F4-4D3B-BD29-A653D74CA59E}|1_TwoSum\\1_TwoSum.vcxproj|solutionrelative:1_TwoSum\\TwoSum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5B1A0C-56F4-4D3B-BD29-A653D74CA59E}|1_TwoSum\\1_TwoSum.vcxproj|D:\\Leetcode\\Leetcode\\1_TwoSum\\1_TwoSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C5B1A0C-56F4-4D3B-BD29-A653D74CA59E}|1_TwoSum\\1_TwoSum.vcxproj|solutionrelative:1_TwoSum\\1_TwoSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6DFE8B3A-7BFB-4B75-A0A2-1B954B2A5843}|242_ValidAnagram\\242_ValidAnagram.vcxproj|D:\\Leetcode\\Leetcode\\242_ValidAnagram\\ValidAnagram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DFE8B3A-7BFB-4B75-A0A2-1B954B2A5843}|242_ValidAnagram\\242_ValidAnagram.vcxproj|solutionrelative:242_ValidAnagram\\ValidAnagram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 295,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,86 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "1_TwoSum.cpp",
-              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\1_TwoSum\\1_TwoSum.cpp",
-              "RelativeDocumentMoniker": "1_TwoSum\\1_TwoSum.cpp",
-              "ToolTip": "D:\\Leetcode\\Leetcode\\1_TwoSum\\1_TwoSum.cpp",
-              "RelativeToolTip": "1_TwoSum\\1_TwoSum.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-04T05:46:56.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TwoSum.cpp",
-              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\1_TwoSum\\TwoSum.cpp",
-              "RelativeDocumentMoniker": "1_TwoSum\\TwoSum.cpp",
-              "ToolTip": "D:\\Leetcode\\Leetcode\\1_TwoSum\\TwoSum.cpp",
-              "RelativeToolTip": "1_TwoSum\\TwoSum.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-04T06:16:11.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TwoSum.h",
-              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\1_TwoSum\\TwoSum.h",
-              "RelativeDocumentMoniker": "1_TwoSum\\TwoSum.h",
-              "ToolTip": "D:\\Leetcode\\Leetcode\\1_TwoSum\\TwoSum.h",
-              "RelativeToolTip": "1_TwoSum\\TwoSum.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-04T05:47:36.677Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 305,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "217_ContainsDuplicate.cpp",
-              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\217_ContainsDuplicate\\217_ContainsDuplicate.cpp",
-              "RelativeDocumentMoniker": "217_ContainsDuplicate\\217_ContainsDuplicate.cpp",
-              "ToolTip": "D:\\Leetcode\\Leetcode\\217_ContainsDuplicate\\217_ContainsDuplicate.cpp",
-              "RelativeToolTip": "217_ContainsDuplicate\\217_ContainsDuplicate.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Title": "242_ValidAnagram.cpp",
+              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\242_ValidAnagram\\242_ValidAnagram.cpp",
+              "RelativeDocumentMoniker": "242_ValidAnagram\\242_ValidAnagram.cpp",
+              "ToolTip": "D:\\Leetcode\\Leetcode\\242_ValidAnagram\\242_ValidAnagram.cpp",
+              "RelativeToolTip": "242_ValidAnagram\\242_ValidAnagram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T15:43:40.192Z",
+              "WhenOpened": "2025-05-05T14:32:54.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ContainsDuplicate.cpp",
-              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\217_ContainsDuplicate\\ContainsDuplicate.cpp",
-              "RelativeDocumentMoniker": "217_ContainsDuplicate\\ContainsDuplicate.cpp",
-              "ToolTip": "D:\\Leetcode\\Leetcode\\217_ContainsDuplicate\\ContainsDuplicate.cpp",
-              "RelativeToolTip": "217_ContainsDuplicate\\ContainsDuplicate.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Title": "ValidAnagram.cpp",
+              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\242_ValidAnagram\\ValidAnagram.cpp",
+              "RelativeDocumentMoniker": "242_ValidAnagram\\ValidAnagram.cpp",
+              "ToolTip": "D:\\Leetcode\\Leetcode\\242_ValidAnagram\\ValidAnagram.cpp",
+              "RelativeToolTip": "242_ValidAnagram\\ValidAnagram.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-04T08:58:36.802Z",
+              "WhenOpened": "2025-05-05T14:38:27.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContainsDuplicate.h",
-              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\217_ContainsDuplicate\\ContainsDuplicate.h",
-              "RelativeDocumentMoniker": "217_ContainsDuplicate\\ContainsDuplicate.h",
-              "ToolTip": "D:\\Leetcode\\Leetcode\\217_ContainsDuplicate\\ContainsDuplicate.h",
-              "RelativeToolTip": "217_ContainsDuplicate\\ContainsDuplicate.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ValidAnagram.h",
+              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\242_ValidAnagram\\ValidAnagram.h",
+              "RelativeDocumentMoniker": "242_ValidAnagram\\ValidAnagram.h",
+              "ToolTip": "D:\\Leetcode\\Leetcode\\242_ValidAnagram\\ValidAnagram.h",
+              "RelativeToolTip": "242_ValidAnagram\\ValidAnagram.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T16:06:21.631Z",
+              "WhenOpened": "2025-05-05T14:38:50.239Z",
               "EditorCaption": ""
             }
           ]
