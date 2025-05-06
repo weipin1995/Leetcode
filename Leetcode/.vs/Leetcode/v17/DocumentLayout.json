@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Leetcode\\Leetcode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DFE8B3A-7BFB-4B75-A0A2-1B954B2A5843}|242_ValidAnagram\\242_ValidAnagram.vcxproj|D:\\Leetcode\\Leetcode\\242_ValidAnagram\\242_ValidAnagram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6DFE8B3A-7BFB-4B75-A0A2-1B954B2A5843}|242_ValidAnagram\\242_ValidAnagram.vcxproj|solutionrelative:242_ValidAnagram\\242_ValidAnagram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7CAA618D-E522-42B4-9FCD-0DE19E429643}|Leetcode\\Leetcode.vcxproj|D:\\Leetcode\\Leetcode\\Leetcode\\242_ValidAnagram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CAA618D-E522-42B4-9FCD-0DE19E429643}|Leetcode\\Leetcode.vcxproj|solutionrelative:Leetcode\\242_ValidAnagram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DFE8B3A-7BFB-4B75-A0A2-1B954B2A5843}|242_ValidAnagram\\242_ValidAnagram.vcxproj|D:\\Leetcode\\Leetcode\\242_ValidAnagram\\ValidAnagram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6DFE8B3A-7BFB-4B75-A0A2-1B954B2A5843}|242_ValidAnagram\\242_ValidAnagram.vcxproj|solutionrelative:242_ValidAnagram\\ValidAnagram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7CAA618D-E522-42B4-9FCD-0DE19E429643}|Leetcode\\Leetcode.vcxproj|D:\\Leetcode\\Leetcode\\Leetcode\\1_TwoSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CAA618D-E522-42B4-9FCD-0DE19E429643}|Leetcode\\Leetcode.vcxproj|solutionrelative:Leetcode\\1_TwoSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DFE8B3A-7BFB-4B75-A0A2-1B954B2A5843}|242_ValidAnagram\\242_ValidAnagram.vcxproj|D:\\Leetcode\\Leetcode\\242_ValidAnagram\\ValidAnagram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6DFE8B3A-7BFB-4B75-A0A2-1B954B2A5843}|242_ValidAnagram\\242_ValidAnagram.vcxproj|solutionrelative:242_ValidAnagram\\ValidAnagram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7CAA618D-E522-42B4-9FCD-0DE19E429643}|Leetcode\\Leetcode.vcxproj|D:\\Leetcode\\Leetcode\\Leetcode\\217_ContainsDuplicate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CAA618D-E522-42B4-9FCD-0DE19E429643}|Leetcode\\Leetcode.vcxproj|solutionrelative:Leetcode\\217_ContainsDuplicate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,39 +32,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "242_ValidAnagram.cpp",
-              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\242_ValidAnagram\\242_ValidAnagram.cpp",
-              "RelativeDocumentMoniker": "242_ValidAnagram\\242_ValidAnagram.cpp",
-              "ToolTip": "D:\\Leetcode\\Leetcode\\242_ValidAnagram\\242_ValidAnagram.cpp",
-              "RelativeToolTip": "242_ValidAnagram\\242_ValidAnagram.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\Leetcode\\242_ValidAnagram.cpp",
+              "RelativeDocumentMoniker": "Leetcode\\242_ValidAnagram.cpp",
+              "ToolTip": "D:\\Leetcode\\Leetcode\\Leetcode\\242_ValidAnagram.cpp",
+              "RelativeToolTip": "Leetcode\\242_ValidAnagram.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-05T14:32:54.366Z",
+              "WhenOpened": "2025-05-06T14:40:13.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ValidAnagram.cpp",
-              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\242_ValidAnagram\\ValidAnagram.cpp",
-              "RelativeDocumentMoniker": "242_ValidAnagram\\ValidAnagram.cpp",
-              "ToolTip": "D:\\Leetcode\\Leetcode\\242_ValidAnagram\\ValidAnagram.cpp",
-              "RelativeToolTip": "242_ValidAnagram\\ValidAnagram.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Title": "1_TwoSum.cpp",
+              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\Leetcode\\1_TwoSum.cpp",
+              "RelativeDocumentMoniker": "Leetcode\\1_TwoSum.cpp",
+              "ToolTip": "D:\\Leetcode\\Leetcode\\Leetcode\\1_TwoSum.cpp",
+              "RelativeToolTip": "Leetcode\\1_TwoSum.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-05T14:38:27.207Z",
+              "WhenOpened": "2025-05-06T14:38:12.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ValidAnagram.h",
-              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\242_ValidAnagram\\ValidAnagram.h",
-              "RelativeDocumentMoniker": "242_ValidAnagram\\ValidAnagram.h",
-              "ToolTip": "D:\\Leetcode\\Leetcode\\242_ValidAnagram\\ValidAnagram.h",
-              "RelativeToolTip": "242_ValidAnagram\\ValidAnagram.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-05T14:38:50.239Z",
+              "Title": "217_ContainsDuplicate.cpp",
+              "DocumentMoniker": "D:\\Leetcode\\Leetcode\\Leetcode\\217_ContainsDuplicate.cpp",
+              "RelativeDocumentMoniker": "Leetcode\\217_ContainsDuplicate.cpp",
+              "ToolTip": "D:\\Leetcode\\Leetcode\\Leetcode\\217_ContainsDuplicate.cpp",
+              "RelativeToolTip": "Leetcode\\217_ContainsDuplicate.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T14:38:06.137Z",
               "EditorCaption": ""
             }
           ]
